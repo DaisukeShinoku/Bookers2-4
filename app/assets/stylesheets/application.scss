@@ -27,7 +27,7 @@ header .navbar-left span {
 }
 
 body {
-	margin-top: 50px;
+	margin-top: 51px;
 }
 
 .actions {
@@ -38,3 +38,15 @@ body {
     display: flex;
     align-items: flex-end;
 }
+
+#notice {
+  color: green;
+}
+
+#error_explanation {
+  color: red;
+  }
+
+#error_explanation ul li{
+  list-style:none;
+  }
